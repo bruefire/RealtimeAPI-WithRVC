@@ -183,4 +183,6 @@ dependencies:
       - torchaudio==2.0.1
       - torchvision==0.15.1
       - wget==3.2
+      - pyaudio==0.2.14
+      - websockets==11.0.3
 prefix: D:\ProgramData\anaconda3_\envs\pydml
