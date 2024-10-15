@@ -10,6 +10,7 @@ For Windows users, please use the pre-built version available from [Releases](ht
 Run go-realtime-gpt.bat.  
 The basic usage is the same as the GUI in go-realtime-gui.bat, but there are additional fields at the top for the API key and the initial prompt.  
 
+![example](https://github.com/user-attachments/assets/ec94b4a7-2762-4767-98e7-49b853590449)
 ## API Key
 The OpenAI API key is required. Create one from the OpenAI website and paste it into this field.  
 
